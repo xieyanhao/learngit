@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free software.
 
 //ÕâÊÇ×¢ÊÍ
-xieyanhao
+xieyanhao  I am a loser
