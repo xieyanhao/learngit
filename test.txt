@@ -2,4 +2,4 @@ Git is a distributed version control system.
 Git is free software.
 
 //这是注释
-xieyanhao  I am a loser 我想走了
+xieyanhao  I am a loser 
